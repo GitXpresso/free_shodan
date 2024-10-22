@@ -25,3 +25,12 @@ setting up repository using python
 ```
 python free_shodan.py
 ```
+# Want to do in one whole command without repeatedly copying the commands upove then here you go
+```
+git clone https://github.com/GitXpresso/free_shodan
+cd free_shodam
+pip install -r requirements.txt
+python free_shodan.py
+```
+
+
