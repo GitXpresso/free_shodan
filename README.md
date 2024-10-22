@@ -1,5 +1,5 @@
 # Free Shodan Installation
-First git clone repository
+First git clone the  repository
 ```
 git clone https://github.com/GitXpresso/free_shodan
 ```
@@ -19,9 +19,9 @@ pip install -r requirements.txt
 Now its time to use the repository using python3 or python
 setting up repository using python3
 ```
-python3 setup.py
+python3 free_shodan.py install
 ```
 setting up repository using python
 ```
-python setup.py
+python free_shodan.py
 ```
